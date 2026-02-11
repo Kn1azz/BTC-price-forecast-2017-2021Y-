@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 # =========================
 st.set_page_config(page_title="BTC Time Series Project", layout="wide")
 st.title("📈 BTC Time Series Forecasting — ML исследование (как презентация)")
-st.caption("Датасет: data/coin_Bitcoin.csv | Цель: прогноз дневной log-return(t+1) и анализ предсказуемости")
+st.caption("Датасет: BTC-price-forecast-2017-2021Y-/coin_Bitcoin.csv | Цель: прогноз дневной log-return(t+1) и анализ предсказуемости")
 
 
 # =========================
