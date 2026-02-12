@@ -100,9 +100,9 @@ stopping_rounds = st.sidebar.number_input("early_stopping rounds", value=300, mi
 
 run_btn = st.sidebar.button("Запустить обучение")
 
-st.sidebar.caption("Аббосов Мухаммадасрор")
-st.sidebar.caption("        Душанбе Точикистон")
-st.sidebar.caption('                Январи соли 2026')
+st.sidebar.caption("Abbosov Muhammadasror Golibovich")
+st.sidebar.caption("        Dushanbe TAjikistan")
+st.sidebar.caption('            Feb 2026')
 # -------------------------
 # Main
 # -------------------------
