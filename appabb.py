@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="BTC Time Series Forecast", layout="wide")
 st.title("BTC: прогноз доходности (t+1) и восстановление цены")
-st.title("**Разработчик:** Muhamadasror Abbosov")
+st.title("**Разработчик:** Muhamadasror Abbosov Golibovich")
 
 st.markdown("""
 ### Приложение для анализа временного ряда Bitcoin и прогноза доходностей
